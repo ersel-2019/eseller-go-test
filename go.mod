@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID
+module github.com/ersel-2019/eseller-go-test
 
 go 1.13
 
